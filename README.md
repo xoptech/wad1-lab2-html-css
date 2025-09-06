@@ -6,4 +6,4 @@ Second activity from [Prof](https://github.com/j-casimiro).
 
 ### **Preview**
 
-<a href="assets/preview.png"></a>
+![Preview](assets/preview.png)
