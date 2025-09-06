@@ -1,1 +1,5 @@
-# wad1-lab2-html-css
+### **HTML Basic Student Portfolio**
+
+**What is this all about?**
+
+Second activity from [Prof](https://github.com/j-casimiro).
